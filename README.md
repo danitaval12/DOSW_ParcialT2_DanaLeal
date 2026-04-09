@@ -1,2 +1,13 @@
 # PARCIAL SEGUNDO CORTE DOSW 
-#### Dana Valeria Leal Guzmán | Grupo No.01 
+#### Dana Valeria Leal Guzmán 
+#### Grupo No.01 
+
+## | REQUERIMIENTOS DE ACCESOS |
+#### HERRAMIENTA DE MODELADO 
+- LUCID
+
+
+#### HERRAMIENTA DE DISEÑO DE INTERFACES 
+- FIGMA
+
+
