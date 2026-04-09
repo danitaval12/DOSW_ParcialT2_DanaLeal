@@ -1,1 +1,2 @@
-# DOSW_ParcialT2_DanaLeal
+# PARCIAL SEGUNDO CORTE DOSW 
+#### Dana Valeria Leal Guzmán | Grupo No.01 
